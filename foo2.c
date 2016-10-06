@@ -2,5 +2,5 @@
 
 void foo2()
 {
-	printf("world\n");
+	printf("WORLD\n");
 }
