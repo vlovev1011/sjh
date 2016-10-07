@@ -2,5 +2,9 @@
 
 void mian()
 {
+
 	printf("HI\n");
+
+	printf("Hi\n");
+
 }
